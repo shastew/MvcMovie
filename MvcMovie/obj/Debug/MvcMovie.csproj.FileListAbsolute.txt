@@ -53,3 +53,6 @@ c:\users\sha\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\bin\Microso
 c:\users\sha\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csprojResolveAssemblyReference.cache
 c:\users\sha\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.dll
 c:\users\sha\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb
+C:\Users\Sha\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.InitialCreate.resources
+C:\Users\Sha\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.Cache
+C:\Users\Sha\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Rating.resources
