@@ -56,3 +56,4 @@ c:\users\sha\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\M
 C:\Users\Sha\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.InitialCreate.resources
 C:\Users\Sha\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.Cache
 C:\Users\Sha\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Rating.resources
+C:\Users\Sha\documents\visual studio 2013\Projects\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.DataAnnotations.resources
